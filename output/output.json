@@ -1,0 +1,2562 @@
+[
+    {
+        "date": "",
+        "timeStarted": "",
+        "duration": "",
+        "plan": {
+            "name": [
+                "﻿"
+            ],
+            "day": "",
+            "week": ""
+        },
+        "exercise": []
+    },
+    {
+        "date": "\"2023-02-21",
+        "timeStarted": "5:46 pm\"",
+        "duration": "1:04 hr",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 4 ",
+            "week": " Week 2 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Pull-Ups with Wide Overhand Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "3"
+                    }
+                ]
+            },
+            {
+                "name": "2. Lat Pulldowns with Wide Overhand Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "85",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "100",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "100",
+                        "reps": "6"
+                    }
+                ]
+            },
+            {
+                "name": "3. Lat Pulldowns with Close Neutral Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "4. Pullovers with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "12.5 x 10\"",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-02-20",
+        "timeStarted": "2:26 pm\"",
+        "duration": "1:44 hr",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 1 ",
+            "week": " Week 2 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "13"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "30",
+                        "reps": "12"
+                    }
+                ]
+            },
+            {
+                "name": "2. Incline Bench Press Smith machine",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "40",
+                        "reps": "12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-02-09",
+        "timeStarted": "8:31 am\"",
+        "duration": "36 min",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 3 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Twist Curls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "22",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "35",
+                        "reps": "20"
+                    }
+                ]
+            },
+            {
+                "name": "2. Curls Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "30",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Drag Curls Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "35",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "35",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "4. Bench Press with Close Grip Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "17"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "40",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "5. Skull Crushers EZ bar",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "6. Tricep Kickbacks Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "7. Tricep Pushdowns with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-02-08",
+        "timeStarted": "8:44 pm\"",
+        "duration": "11 min",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 5 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Reverse Crunches Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-02-07",
+        "timeStarted": "8:24 am\"",
+        "duration": "38 min",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 2 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Face Pulls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "3",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2. Seated Shoulder Press with Close Grip Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "25",
+                        "reps": "7"
+                    },
+                    {
+                        "setNumber": "4",
+                        "weight": "30",
+                        "reps": "14"
+                    }
+                ]
+            },
+            {
+                "name": "3. Seated Shoulder Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "4. Lean Away Lateral Raises Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "5",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "5",
+                        "reps": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-02-06",
+        "timeStarted": "8:22 am\"",
+        "duration": "31 min",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 1 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "7",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "2. Incline Bench Press Smith machine",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "11"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-02-02",
+        "timeStarted": "8:31 am\"",
+        "duration": "51 min",
+        "plan": {
+            "name": " Second Plan\"",
+            "day": "\"Day 4 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Pull-Ups with Wide Overhand Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "2. Lat Pulldowns with Wide Overhand Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "88",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "99",
+                        "reps": "11"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "66",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Lat Pulldowns with Close Neutral Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "77",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "77",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "4. Pullovers with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "25",
+                        "reps": "14"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-31",
+        "timeStarted": "8:22 am\"",
+        "duration": "1:14 hr",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 2 ",
+            "week": " Week 4 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Face Pulls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "33",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "2. Seated Shoulder Press with Close Grip Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "30",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "30",
+                        "reps": "12"
+                    }
+                ]
+            },
+            {
+                "name": "3. Seated Shoulder Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "10",
+                        "reps": "7"
+                    }
+                ]
+            },
+            {
+                "name": "4. Lean Away Lateral Raises Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "5",
+                        "reps": "7"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "5",
+                        "reps": "7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-27",
+        "timeStarted": "8:26 am\"",
+        "duration": "1:07 hr",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 4 ",
+            "week": " Week 4 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Pull-Ups with Wide Overhand Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "2. Lat Pulldowns with Wide Overhand Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "77",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "99",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "66",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "3. Lat Pulldowns with Close Neutral Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "4. Pullovers with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "30",
+                        "reps": "10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-25",
+        "timeStarted": "8:11 am\"",
+        "duration": "49 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 1 ",
+            "week": " Week 4 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "50",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "70",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "90",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "2. Incline Bench Press Smith machine",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "14"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Bench Press Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "20"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-20",
+        "timeStarted": "8:17 am\"",
+        "duration": "47 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 3 ",
+            "week": " Week 4 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Twist Curls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "22",
+                        "reps": "20"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2. Curls Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "15",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "6"
+                    }
+                ]
+            },
+            {
+                "name": "3. Preacher Curls EZ bar",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "4. Bench Press with Close Grip Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "17"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "40",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "5. Skull Crushers EZ bar",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "20",
+                        "reps": "12"
+                    }
+                ]
+            },
+            {
+                "name": "6. Tricep Kickbacks Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "5",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "7. Tricep Pushdowns with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-19",
+        "timeStarted": "8:32 am\"",
+        "duration": "35 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 2 ",
+            "week": " Week 3 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Face Pulls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "10",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "2. Seated Shoulder Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "5",
+                        "reps": "25"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "8",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "8",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Seated Shoulder Press with Close Grip Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "4. Lean Away Lateral Raises Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-18",
+        "timeStarted": "8:23 am\"",
+        "duration": "42 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 4 ",
+            "week": " Week 3 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Pull-Ups with Wide Overhand Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "7"
+                    }
+                ]
+            },
+            {
+                "name": "2. Pull-Ups with Close Neutral Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "5"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "4"
+                    }
+                ]
+            },
+            {
+                "name": "3. Lat Pulldowns with Wide Overhand Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "77",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "99",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "66",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "4. Lat Pulldowns with Close Neutral Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "44",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "66",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "88",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "5. Pullovers with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-17",
+        "timeStarted": "8:16 am\"",
+        "duration": "48 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 1 ",
+            "week": " Week 3 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "13"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "20",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "25",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "2. Incline Bench Press Smith machine",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "25",
+                        "reps": "7"
+                    }
+                ]
+            },
+            {
+                "name": "3. Bench Press Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "30",
+                        "reps": "14"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "35",
+                        "reps": "11"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "40",
+                        "reps": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-13",
+        "timeStarted": "8:12 am\"",
+        "duration": "1:18 hr",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 3 ",
+            "week": " Week 3 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Curls Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "3",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2. Curls Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "50",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "60",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "3. Hammer Curls Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "4. Preacher Curls EZ bar",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "20",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "40",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "40",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "5. Bench Press with Close Grip Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "65",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "75",
+                        "reps": "12"
+                    }
+                ]
+            },
+            {
+                "name": "6. Tricep Kickbacks Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "7. Tricep Pushdowns with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "3",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-11",
+        "timeStarted": "8:25 am\"",
+        "duration": "29 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 2 ",
+            "week": " Week 2 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Face Pulls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "11",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2. Seated Shoulder Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "45",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "55",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "65",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Seated Shoulder Press with Close Grip Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "4. Lean Away Lateral Raises Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "10",
+                        "reps": "11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-10",
+        "timeStarted": "8:12 am\"",
+        "duration": "1:09 hr",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 1 ",
+            "week": " Week 2 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "15",
+                        "reps": "13"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "6"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "5"
+                    }
+                ]
+            },
+            {
+                "name": "2. High Cable Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "10",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Incline Bench Press Smith machine",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "45",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "65",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "95",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "4. Bench Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "25",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "30",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "35",
+                        "reps": "12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-06",
+        "timeStarted": "8:24 am\"",
+        "duration": "39 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 4 ",
+            "week": " Week 2 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Pull-Ups with Wide Overhand Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "2. Pull-Ups with Close Neutral Grip Bodyweight",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "0",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "0",
+                        "reps": "5"
+                    }
+                ]
+            },
+            {
+                "name": "3. Lat Pulldowns with Wide Overhand Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "77",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "99",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "99",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "4. Lat Pulldowns with Close Neutral Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "-",
+                        "reps": "-"
+                    }
+                ]
+            },
+            {
+                "name": "5. Lat Pulldowns with Close Overhand Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "-",
+                        "reps": "-"
+                    }
+                ]
+            },
+            {
+                "name": "6. Pullovers with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "25",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "35",
+                        "reps": "7"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "35",
+                        "reps": "5"
+                    }
+                ]
+            },
+            {
+                "name": "7. Rows with Close Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "44",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "55",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "77",
+                        "reps": "5"
+                    }
+                ]
+            },
+            {
+                "name": "8. Rows with Reverse Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "-",
+                        "reps": "-"
+                    }
+                ]
+            },
+            {
+                "name": "9. Rows with Wide Grip Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "-",
+                        "reps": "-"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-05",
+        "timeStarted": "8:37 am\"",
+        "duration": "33 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 3 ",
+            "week": " Week 2 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Curls Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "3",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2. Curls Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "65",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "65",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "3. Hammer Curls Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "25",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "4"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "25",
+                        "reps": "4"
+                    }
+                ]
+            },
+            {
+                "name": "4. Preacher Curls EZ bar",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "-",
+                        "reps": "-"
+                    }
+                ]
+            },
+            {
+                "name": "5. Bench Press with Close Grip Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "65",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "75",
+                        "reps": "8"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "0",
+                        "reps": "1"
+                    }
+                ]
+            },
+            {
+                "name": "6. Tricep Kickbacks Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "-",
+                        "reps": "-"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "-",
+                        "reps": "-"
+                    }
+                ]
+            },
+            {
+                "name": "7. Tricep Pushdowns with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "22",
+                        "reps": "20"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "3",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-04",
+        "timeStarted": "8:13 am\"",
+        "duration": "42 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 2 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Face Pulls with Rope Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "11",
+                        "reps": "12"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "2. Seated Shoulder Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "45",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "55",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "65",
+                        "reps": "5"
+                    }
+                ]
+            },
+            {
+                "name": "3. Seated Shoulder Press with Close Grip Dumbbells",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "30",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "30",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "30",
+                        "reps": "8"
+                    }
+                ]
+            },
+            {
+                "name": "4. Lean Away Lateral Raises Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "5"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "10",
+                        "reps": "5"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "0",
+                        "reps": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "\"2023-01-03",
+        "timeStarted": "8:11 am\"",
+        "duration": "44 min",
+        "plan": {
+            "name": " New plan\"",
+            "day": "\"Day 1 ",
+            "week": " Week 1 "
+        },
+        "exercise": [
+            {
+                "name": "",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            {
+                "name": "1. Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "15",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "15",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "2. High Cable Flys Cable",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            },
+            {
+                "name": "3. Incline Bench Press Smith machine",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "45",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "65",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "95",
+                        "reps": "15"
+                    }
+                ]
+            },
+            {
+                "name": "4. Bench Press Barbell",
+                "details": [
+                    {
+                        "setNumber": "",
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "setNumber": "1",
+                        "weight": "25",
+                        "reps": "12"
+                    },
+                    {
+                        "setNumber": "2",
+                        "weight": "25",
+                        "reps": "15"
+                    },
+                    {
+                        "setNumber": "3",
+                        "weight": "30",
+                        "reps": "12"
+                    }
+                ]
+            }
+        ]
+    }
+]

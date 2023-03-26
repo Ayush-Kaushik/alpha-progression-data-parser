@@ -1,0 +1,68 @@
+﻿
+"Second Plan",2023-02-02
+"4 weeks"
+"Day 1 · Chest - Day 1"
+EXERCISE,SETS,REPS
+"1. Flys Cable",3,10
+"2. Incline Bench Press Smith machine",3,10
+"3. Bench Press Barbell",1,10
+"Day 2 · Day 2"
+EXERCISE,SETS,REPS
+"1. Face Pulls with Rope Cable",4,10
+"2. Seated Shoulder Press with Close Grip Dumbbells",4,10
+"3. Seated Shoulder Press Barbell",0,10
+"4. Lean Away Lateral Raises Cable",2,10
+"5. Front Raises Cable",2,10
+"Day 3 · Day 3"
+EXERCISE,SETS,REPS
+"1. Twist Curls with Rope Cable",2,10,"Superset 1"
+"2. Curls Dumbbells",2,10,"Superset 2"
+"3. Drag Curls Barbell",3,10
+"4. Bench Press with Close Grip Barbell",2,10,"Superset 1"
+"5. Skull Crushers EZ bar",1,10,"Superset 2"
+"6. Tricep Kickbacks Dumbbells",0,5,"Superset 1"
+"7. Tricep Pushdowns with Rope Cable",2,10,"Superset 2"
+"Day 4 · Back - Day 4"
+EXERCISE,SETS,REPS,DROPSETS
+"1. Pull-Ups with Wide Overhand Grip Bodyweight",2,10,-
+"2. Lat Pulldowns with Wide Overhand Grip Cable",3,10,-
+"3. Lat Pulldowns with Close Neutral Grip Cable",0,10,1
+"4. Pullovers with Rope Cable",2,10,-
+"5. Rows with Close Grip Cable",2,10,-
+"Day 5 · Abs (extra)"
+EXERCISE,SETS,REPS
+"1. Reverse Crunches Bodyweight",3,10
+"2. Elbow to Knee Tuck Bodyweight",3,10
+
+"New plan",2023-01-02
+"4 weeks"
+"Day 1 · Chest - Day 1"
+EXERCISE,SETS,REPS
+"1. Flys Cable",3,10
+"2. Incline Bench Press Smith machine",3,10
+"3. Bench Press Dumbbells",2,10
+"4. Bench Press Barbell",3,10
+"Day 2 · Day 2"
+EXERCISE,SETS,REPS
+"1. Face Pulls with Rope Cable",3,10
+"2. Seated Shoulder Press with Close Grip Dumbbells",3,10
+"3. Seated Shoulder Press Barbell",3,10
+"4. Lean Away Lateral Raises Cable",2,10
+"5. Front Raises Cable",0,10
+"Day 3 · Day 3"
+EXERCISE,SETS,REPS
+"1. Twist Curls with Rope Cable",2,10,"Superset 1"
+"2. Curls Dumbbells",2,10,"Superset 2"
+"3. Preacher Curls EZ bar",3,10
+"4. Bench Press with Close Grip Barbell",2,10,"Superset 1"
+"5. Skull Crushers EZ bar",2,10,"Superset 2"
+"6. Tricep Kickbacks Dumbbells",2,5,"Superset 1"
+"7. Tricep Pushdowns with Rope Cable",2,10,"Superset 2"
+"Day 4 · Back - Day 4"
+EXERCISE,SETS,REPS
+"1. Pull-Ups with Wide Overhand Grip Bodyweight",2,10
+"2. Lat Pulldowns with Wide Overhand Grip Cable",3,10
+"3. Lat Pulldowns with Close Neutral Grip Cable",0,10
+"4. Pullovers with Rope Cable",2,10
+"5. Rows with Close Grip Cable",2,10
+
