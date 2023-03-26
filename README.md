@@ -1,5 +1,8 @@
 <h2 align="center">Alpha Progression Data Parser 💪💪</h2> 
 
+| IMPORTANT: I wrote this parser to turn generate custom graphs from parsed JSON data! Alpha progression has its own graph view so you could use it |
+| --- |
+
 ## 📝 Table of Contents  
 - [About](#about)  
 - [Usage](#usage)
