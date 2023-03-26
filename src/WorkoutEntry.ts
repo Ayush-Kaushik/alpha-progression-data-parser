@@ -1,16 +1,6 @@
 import { ExerciseEntry } from "./ExerciseEntry";
-
-type Plan  = {
-    name: string;
-    day: number;
-    week: number;
-}
-
-type Duration = {
-    hours: number;
-    minutes: number;
-    seconds: number;
-}
+import { Duration } from "./types/Duration";
+import { Plan } from "./types/Plan";
 
 export class WorkoutEntry {
     date: Date;

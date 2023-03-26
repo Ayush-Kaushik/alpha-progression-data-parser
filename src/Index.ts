@@ -1,20 +1,16 @@
 const fs = require("fs");
 const readline = require("readline");
+const path = require("path");
 
 import { ExerciseEntry } from './ExerciseEntry';
+import { Duration } from './types/Duration';
 import { WorkoutEntry } from './WorkoutEntry';
 
-const stream = fs.createReadStream('data/2023_03_24 Workouts.csv');
+const stream = fs.createReadStream('data/2023_03_26 Workouts.csv');
 const rl = readline.createInterface({ input: stream });
 
 let csvDataContainer: any = [];
 let metaData: any = [];
-
-type DateTime = {
-    hours: number,
-    minutes: number,
-    seconds: number
-}
 
 rl.on("line", (row: string) => {
 
@@ -29,7 +25,8 @@ rl.on("line", (row: string) => {
 });
 
 rl.on("close", () => {
-    fs.writeFileSync('tempOutput.json', JSON.stringify(csvDataContainer), (err: any) => {
+    
+    fs.writeFileSync(path.join(__dirname, "../output/csvDataContainer.json"), JSON.stringify(csvDataContainer), (err: any) => {
         if (err) {
             console.error(err);
         }
@@ -39,14 +36,14 @@ rl.on("close", () => {
         return ParseEntry(item);
     });
 
-    fs.writeFile('output.json', JSON.stringify(parsedData), (err: any) => {
+    fs.writeFile(path.join(__dirname, "../output/output.json"), JSON.stringify(parsedData), (err: any) => {
         if (err) {
             console.error(err);
         }
     });
 });
 
-const ParseDateTime = (data: string): DateTime => {
+const ParseDateTime = (data: string): Duration => {
     if (data.includes("hr")) {
         const timeArray: string[] = data.split(":");
         const hours = parseInt(timeArray[0], 10);

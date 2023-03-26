@@ -9,6 +9,8 @@
 - [Built Using](#built_using)
 
 ## 💪💪 About <a name = "#getting_started"></a>
+- This works for workouts that are logged under a plan
+- Single workout support will be added later
 
 ## 🏃‍♀️🏃 How to run Alpha Progression Data Parser? <a name="usage"></a>  
 
